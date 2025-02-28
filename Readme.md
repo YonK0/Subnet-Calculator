@@ -95,4 +95,6 @@ Subnet Mask = 255.255.255.252
 
 ## Acknowledgments
 
-- This program was created as an educational tool for understanding subnet calculations or just to verify your manually calculation
+- This program was created as an educational tool for understanding subnet calculations or just to verify your manually calculation.
+  
+![mr robot GIF](https://github.com/user-attachments/assets/a462e792-3cf9-4ccb-8d19-e1832b85b24c)
